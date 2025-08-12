@@ -142,7 +142,7 @@ jupyter notebook notebooks/01_data_exploration.ipynb
 
 ## 👤 Author
 
-**[Your Name]** - Aspiring AI/ML Engineer
+**[Navneet Sai Danturi]** - Aspiring AI/ML Engineer
 - Currently developing expertise in multimodal AI and production ML systems
 - This project represents hands-on learning and skill development in deep learning
 
